@@ -2,3 +2,6 @@ a file created for testing git using command prompt
 
 
 created sowtare related computer science
+
+
+file modified from git-hub
